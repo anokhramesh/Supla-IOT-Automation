@@ -10,3 +10,13 @@ visit and create a project using GUI Generic
 download the NodeMCU pyflaser from github
 https://github.com/marcelstoer/nodemcu-pyflasher/releases
 https://github.com/anokhramesh/Supla-IOT-Automation
+
+default Ip address of the device is 192.168.4.1(use for device setting)
+username- admin
+password -pass
+
+click onthe i logo on the device to know the new IP address(if required to do any modification)
+
+https://github.com/anokhramesh/Supla-IOT-Automation
+
+
