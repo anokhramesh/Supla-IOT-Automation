@@ -1,0 +1,14 @@
+visit  and create an account 
+https://www.supla.org/en/ 
+
+visit and Login to -----
+https://cloud.supla.org/login
+
+
+https://gui-generic-builder.supla.io/
+
+visit and create a project using GUI Generic
+ 
+download the NodeMCU pyflaser from github
+https://github.com/marcelstoer/nodemcu-pyflasher/releases
+https://github.com/anokhramesh/Supla-IOT-Automation
