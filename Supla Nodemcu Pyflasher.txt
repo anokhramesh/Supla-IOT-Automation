@@ -4,10 +4,8 @@ https://www.supla.org/en/
 visit and Login to -----
 https://cloud.supla.org/login
 
-
-https://gui-generic-builder.supla.io/
-
 visit and create a project using GUI Generic
+ https://gui-generic-builder.supla.io/
  
 download the NodeMCU pyflaser from github
 https://github.com/marcelstoer/nodemcu-pyflasher/releases
